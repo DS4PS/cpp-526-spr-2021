@@ -3,31 +3,31 @@ layout: schedule
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/67636/assignments'
-  yellowdig_url: 'https://canvas.asu.edu/courses/67636/assignments/1615950'
+  assignment_url: 'https://canvas.asu.edu/courses/76018/assignments'
+  yellowdig_url: 'https://canvas.asu.edu/courses/76018/assignments/1888995'
   
 lab-due-dates:
-  lab-01: 'WED Aug 26th'
-  lab-02: 'WED Sep 2nd'
-  lab-03: 'WED Sep 9th'
-  lab-04: 'WED Sep 16th'
-  lab-05: 'WED Sep 23rd'
-  lab-06: 'WED Sep 30th'
+  lab-01: 'THUR Jan 14th'
+  lab-02: 'WED Jan 20th'
+  lab-03: 'WED Jan 27th'
+  lab-04: 'WED Feb 3rd'
+  lab-05: 'WED Feb 10th'
+  lab-06: 'WED Feb 17th'
  
 discussion-dates:
-  topic-00: 'FRI Aug 21st'
-  topic-01: 'FRI Aug 28th'
-  topic-02: 'FRI Sept 4th'
-  topic-03: 'FRI Sept 11th'
-  topic-04: 'FRI Sept 18th'
-  topic-05: 'FRI Sept 25th'
-  topic-06: 'FRI Oct 2nd'
+  topic-00: 'FRI Jan 15th'
+  topic-01: 'FRI Jan 22nd'
+  topic-02: 'FRI Jan 29th'
+  topic-03: 'FRI Feb 5th'
+  topic-04: 'FRI Feb 12th'
+  topic-05: 'FRI Feb 19th'
+  topic-06: 'FRI Feb 26th'
   
 final-project:
-  due-date: 'FRI Oct 9th'
+  due-date: 'SUN Feb 28th'
 
 code-through:
-  due-date: 'FRI Oct 9th'
+  due-date: 'SUN Feb 28th'
   
 ---
  
