@@ -7,7 +7,7 @@ canvas:
   yellowdig_url: 'https://canvas.asu.edu/courses/76018/assignments/1888995'
   
 lab-due-dates:
-  lab-01: 'THUR Jan 14th'
+  lab-01: 'WED Jan 13th'
   lab-02: 'WED Jan 20th'
   lab-03: 'WED Jan 27th'
   lab-04: 'WED Feb 3rd'
@@ -15,13 +15,13 @@ lab-due-dates:
   lab-06: 'WED Feb 17th'
  
 discussion-dates:
-  topic-00: 'FRI Jan 15th'
-  topic-01: 'FRI Jan 22nd'
-  topic-02: 'FRI Jan 29th'
-  topic-03: 'FRI Feb 5th'
-  topic-04: 'FRI Feb 12th'
-  topic-05: 'FRI Feb 19th'
-  topic-06: 'FRI Feb 26th'
+  topic-00: 'MON Jan 11th'
+  topic-01: 'FRI Jan 15th'
+  topic-02: 'FRI Jan 22nd'
+  topic-03: 'FRI Jan 29th'
+  topic-04: 'FRI Feb 5th'
+  topic-05: 'FRI Feb 12th'
+  topic-06: 'FRI Feb 29th'
   
 final-project:
   due-date: 'SUN Feb 28th'
